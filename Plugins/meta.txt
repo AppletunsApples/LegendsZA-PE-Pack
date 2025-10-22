@@ -1,0 +1,4 @@
+Name         = Legends Z-A Pack
+Version      = 1.0
+Essentials   = 21.1
+Credits      = Hedgie, TeaRex, wetchip
