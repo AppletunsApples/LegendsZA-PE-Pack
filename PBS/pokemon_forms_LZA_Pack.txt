@@ -223,7 +223,7 @@ Color = Blue
 Pokedex = This Pokémon spins a giant shuriken at high speed to make it float, then clings to it upside down to catch opponents unawares.
 Generation = 9
 #-------------------------------
-[PYROAR,1]
+[PYROAR,2]
 FormName = Mega Pyroar
 MegaStone = PYROARITE
 Types = FIRE,NORMAL
@@ -235,6 +235,21 @@ Weight = 93.3
 Color = Brown
 Pokedex = This Pokémon spews flames hotter than 18,000 degrees Fahrenheit. It swings around its grand, blazing mane as it protects its allies.
 Generation = 9
+UnmegaForm = 0
+#-------------------------------
+[PYROAR,3]
+FormName = Mega Pyroar
+MegaStone = PYROARITE
+Types = FIRE,NORMAL
+BaseStats = 86,88,92,129,86,126
+BaseExp = 177
+Abilities = DROUGHT
+HiddenAbilities = DROUGHT
+Weight = 93.3
+Color = Brown
+Pokedex = This Pokémon spews flames hotter than 18,000 degrees Fahrenheit. It swings around its grand, blazing mane as it protects its allies.
+Generation = 9
+UnmegaForm = 1
 #-------------------------------
 [DRAGALGE,1]
 FormName = Mega Dragalge
@@ -339,3 +354,4 @@ Weight = 99.0
 Color = Yellow
 Pokedex = Mega Falinks has taken on the ultimate battle formation, which can be achieved only if the troopers and brass have the strongest of bonds.
 Generation = 9
+
