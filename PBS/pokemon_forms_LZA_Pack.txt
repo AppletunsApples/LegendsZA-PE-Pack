@@ -17,7 +17,7 @@ Generation = 9
 #-------------------------------
 [VICTREEBEL,1]
 FormName = Mega Victreebel
-MegaStone = CLEFABLITE
+MegaStone = VICTREEBELITE
 Types = GRASS,POISON
 BaseStats = 80,125,85,135,95,70
 BaseExp = 245
@@ -339,5 +339,6 @@ Weight = 99.0
 Color = Yellow
 Pokedex = Mega Falinks has taken on the ultimate battle formation, which can be achieved only if the troopers and brass have the strongest of bonds.
 Generation = 9
+
 
 
