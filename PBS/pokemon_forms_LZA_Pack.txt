@@ -89,7 +89,7 @@ BaseExp = 163
 Abilities = TOUGHCLAWS
 HiddenAbilities = TOUGHCLAWS
 Weight = 40.4
-Color = Gold
+Color = Yellow
 Pokedex = It flies faster than the speed of sound. After whipping up shock waves to send enemies flying, it finishes them off with its talons.
 Generation = 9
 #-------------------------------
@@ -210,7 +210,7 @@ Color = Red
 Pokedex = It wields flaming branches to dazzle its opponents before incinerating them with a huge fireball.
 Generation = 9
 #-------------------------------
-[GRENINJA,1]
+[GRENINJA,3]
 FormName = Mega Greninja
 MegaStone = GRENINJITE
 Types = WATER,DARK
@@ -222,6 +222,7 @@ Weight = 40.0
 Color = Blue
 Pokedex = This Pokémon spins a giant shuriken at high speed to make it float, then clings to it upside down to catch opponents unawares.
 Generation = 9
+UnmegaForm = 0
 #-------------------------------
 [PYROAR,2]
 FormName = Mega Pyroar
@@ -264,7 +265,7 @@ Color = Brown
 Pokedex = It spits a liquid that causes the regenerative power of cells to run wild. The liquid is deadly poison to everything other than itself.
 Generation = 9
 #-------------------------------
-[FLOETTE,1]
+[FLOETTE,6]
 FormName = Mega Floette
 MegaStone = FLOETTITE
 Types = FAIRY
@@ -276,6 +277,7 @@ Weight = 0.9
 Color = White
 Pokedex = The Eternal Flower has absorbed all the energy from Mega Evolution. The flower now attacks enemies on its own.
 Generation = 9
+UnmegaForm = 5
 #-------------------------------
 [MALAMAR,1]
 FormName = Mega Malamar
@@ -316,18 +318,33 @@ Color = Brown
 Pokedex = Mega Evolution has pumped up all its muscles. Hawlucha flexes to show off its strength.
 Generation = 9
 #-------------------------------
-[ZYGARDE,1]
+[ZYGARDE,4]
 FormName = Mega Zygarde
 MegaStone = ZYGARDITE
 Types = DRAGON,GROUND
 BaseStats = 216,70,91,216,85,100
 BaseExp = 300
 Abilities = AURABREAK
-HiddenAbilities = AURABEAK
+HiddenAbilities = AURABREAK
 Weight = 25.0
 Color = Brown
 Pokedex = In response to people's emotions during an unprecedented crisis, Zygarde Mega Evolves and calms the situation with its unmatched power.
 Generation = 9
+UnmegaForm = 2
+#-------------------------------
+[ZYGARDE,5]
+FormName = Mega Zygarde
+MegaStone = ZYGARDITE
+Types = DRAGON,GROUND
+BaseStats = 216,70,91,216,85,100
+BaseExp = 300
+Abilities = AURABREAK
+HiddenAbilities = AURABREAK
+Weight = 25.0
+Color = Brown
+Pokedex = In response to people's emotions during an unprecedented crisis, Zygarde Mega Evolves and calms the situation with its unmatched power.
+Generation = 9
+UnmegaForm = 3
 #-------------------------------
 [DRAMPA,1]
 FormName = Mega Drampa
