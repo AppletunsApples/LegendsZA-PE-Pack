@@ -237,9 +237,89 @@ Description = One of a variety of mysterious Mega Stones. Have a Falinks hold it
 [SUPERLUMIOSEGALETTE]
 Name = Super Lumiose Galette
 NamePlural = Super Lumiose Galettes
-Pocket = 1
+Pocket = 8
 Price = 0
 BPPrice = 50
-Flags = MegaStone,Fling_80
+FieldUse = Direct
+Flags = KeyItem
 Description = A popular treat among certain residents of Lumiose City. This variety is baked to be incredibly firm so that one can savor the crunch.
 #-------------------------------
+[PEBBLE]
+Name = Pebble
+NamePlural = Pebbles
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = An ordinary pebble entrusted to you by the Pokémon known as Zygarde. It is completely unremarkable.
+#-------------------------------
+[CHERISHEDRING]
+Name = Cherished Ring
+NamePlural = Cherished Rings
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = An ordinary pebble entrusted to you by the Pokémon known as Zygarde. It is completely unremarkable.
+#-------------------------------
+[AUTOGRAPHEDPLUSH]
+Name = Autographed Plush
+NamePlural = Autographed Plushies
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = A plush doll that has been autographed by Canari. Just having one puts you in a good mood.
+#-------------------------------
+[TASTYTRASH]
+Name = Trasty Trash
+NamePlural = Tasty Trash
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = Food waste made up of cooking ingredients. Although they were thrown away after the best parts were used, some edible bits still remain.
+#-------------------------------
+[REVITALIZINGTWIGS]
+Name = Revitalizing Twig
+NamePlural = Revitalizing Twigs
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = A small twig that is beloved by Fennekin. It's said that chewing on one of these twigs can be both soothing and cheering.
+#-------------------------------
+[LIDASTHINGS]
+Name = Lida's Things
+NamePlural = Lida's Things
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = Lida's accessories and other items that she uses when practicing dance. They're kept in a small pouch that was handmade by Naveen.
+#-------------------------------
+[MEGASHARD]
+Name = Mega Shard
+NamePlural = Mega Shards
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = A mysterious shard that can be found after smashing Mega Crystals using Pokémon moves. It seems that some people collect these shards.
+#-------------------------------
+[COLORFULSCREWS]
+Name = Colorful Screw
+NamePlural = Colorful Screws
+Pocket = 8
+Price = 0
+BPPrice = 50
+FieldUse = Direct
+Flags = KeyItem
+Description = A colorful screw. These screws have been left here and there around Lumiose City, and the staff at Racine Construction will trade you goods in exchange for them.
