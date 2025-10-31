@@ -236,21 +236,6 @@ Weight = 93.3
 Color = Brown
 Pokedex = This Pokémon spews flames hotter than 18,000 degrees Fahrenheit. It swings around its grand, blazing mane as it protects its allies.
 Generation = 9
-UnmegaForm = 0
-#-------------------------------
-[PYROAR,3]
-FormName = Mega Pyroar
-MegaStone = PYROARITE
-Types = FIRE,NORMAL
-BaseStats = 86,88,92,129,86,126
-BaseExp = 177
-Abilities = DROUGHT
-HiddenAbilities = DROUGHT
-Weight = 93.3
-Color = Brown
-Pokedex = This Pokémon spews flames hotter than 18,000 degrees Fahrenheit. It swings around its grand, blazing mane as it protects its allies.
-Generation = 9
-UnmegaForm = 1
 #-------------------------------
 [DRAGALGE,1]
 FormName = Mega Dragalge
@@ -277,7 +262,6 @@ Weight = 0.9
 Color = White
 Pokedex = The Eternal Flower has absorbed all the energy from Mega Evolution. The flower now attacks enemies on its own.
 Generation = 9
-UnmegaForm = 5
 #-------------------------------
 [MALAMAR,1]
 FormName = Mega Malamar
@@ -330,21 +314,6 @@ Weight = 25.0
 Color = Brown
 Pokedex = In response to people's emotions during an unprecedented crisis, Zygarde Mega Evolves and calms the situation with its unmatched power.
 Generation = 9
-UnmegaForm = 2
-#-------------------------------
-[ZYGARDE,5]
-FormName = Mega Zygarde
-MegaStone = ZYGARDITE
-Types = DRAGON,GROUND
-BaseStats = 216,70,91,216,85,100
-BaseExp = 300
-Abilities = AURABREAK
-HiddenAbilities = AURABREAK
-Weight = 25.0
-Color = Brown
-Pokedex = In response to people's emotions during an unprecedented crisis, Zygarde Mega Evolves and calms the situation with its unmatched power.
-Generation = 9
-UnmegaForm = 3
 #-------------------------------
 [DRAMPA,1]
 FormName = Mega Drampa
